@@ -29,8 +29,8 @@ and Data Science fundamentals.
 
 | No. | Topic | Status |
 |---|---|---|
-| 01 | Python Basics | In Progress |
-| 02 | Operators | Planned |
+| 01 | Python Basics | Completed |
+| 02 | Operators | In Progress |
 | 03 | Control Statements | Planned |
 | 04 | Loops | Planned |
 | 05 | Patterns | Planned |
