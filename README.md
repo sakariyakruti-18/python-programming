@@ -30,11 +30,11 @@ and Data Science fundamentals.
 | No. | Topic | Status |
 |---|---|---|
 | 01 | Python Basics | Completed |
-| 02 | Operators | In Progress |
-| 03 | Control Statements | Planned |
-| 04 | Loops | Planned |
-| 05 | Patterns | Planned |
-| 06 | Data Structures | Planned |
+| 02 | Operators | Completed |
+| 03 | Control Statements | Completed |
+| 04 | Loops | Completed |
+| 05 | Patterns | Completed |
+| 06 | Data Structures | In Progress |
 | 07 | Strings | Planned |
 | 08 | Functions | Planned |
 | 09 | OOP | Planned |
